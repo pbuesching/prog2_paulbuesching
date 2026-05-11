@@ -107,3 +107,5 @@ Die formulierten Testfälle behandeln zwar teilweise die gleichen Methoden und h
 
 ## Remotes und CI-Pipeline
 Die Pipline wurde hinzugefügt und wird ausgeführt. (Tests wird als fehlgeschlagen angezeigt, liegt aber nicht am Build sonder an einem Test der Fehlschlägt für den meines erachtens nach der Source Code passig geändert werden müsste.)
+
+Link zum Katzen Café Repo: https://github.com/pbuesching/prog2_ybel_catcafe
